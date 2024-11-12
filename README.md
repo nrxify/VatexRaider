@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Flaminz1/VatexRaider">
-    <img src="https://ibb.co/QpsnpBD" alt="Logo" width="100" height="100">
+    <a href="https://ibb.co/QpsnpBD"><img src="https://i.ibb.co/QpsnpBD/1723391532511.png" alt="1723391532511" border="0"></a>
   </a>
   <h3 align="center">Vatex Raider</h3>
   <p align="center">
