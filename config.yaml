@@ -1,0 +1,5 @@
+MAIN:
+  threads: 5  # ENTER NUMBER OF THREADS
+
+SOLVER:
+  solver: '7c970d66a02b6fcdeabf7d3bb6886d87' # ENTER API KEY
