@@ -1,6 +1,6 @@
 name_tool       =  "Vatex-Raider"
 type_tool       =  "Raider / Multi-Tool"
-__version__    =  "1.0.0"
+__version__    =  "1"
 coding_tool     =  "Python"
 creator         =  "Novex aka Flaminz1"
 platform        =  "Windows 10/11 & Linux"
