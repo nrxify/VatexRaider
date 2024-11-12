@@ -25,6 +25,10 @@
 <h2 id="about">Vatex About Me!</h2>
 <p>Vatex is the best free and non rat discord raider made by Novex aka Flaminz1</p>
 
+<h2 id="about">Goals! 🙌</h2>
+<p>`100 stars - Discord Token Generator`</p>
+<p>`150 stars - Source Code Raider`</p>
+
 <h2>WARNING</h2>
 <p><strong>Only download Vatex from this respo cause other ones might have malware</strong></p>
 
