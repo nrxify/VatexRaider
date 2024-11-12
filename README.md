@@ -34,6 +34,7 @@
   
 <h2>WARNING</h2>
 <p><strong>Only download Vatex from this respo cause other ones might have malware</strong></p>
+<p><strong>Turn Off Anti-Virus before installing because there are false positives!</strong></p>
 
 <h2>Disclaimer</h2>
 <p><strong>THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. USE AT YOUR OWN RISK. ANY ACTIONS YOU TAKE WITH THIS TOOL ARE YOUR OWN RESPONSIBILITY.</strong></p>
