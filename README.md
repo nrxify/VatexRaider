@@ -27,8 +27,8 @@
 
 <h2 id="about">Goals! 🙌</h2>
 <pre><code>
-`100 Stars - Discord Token Generator Added - Not Achieved ❌`
-`150 Stars - Discord Raider Source - Not Achieved ❌`
+100 Stars - Discord Token Generator Added - Not Achieved ❌
+150 Stars - Discord Raider Source - Not Achieved ❌
 
 </code></pre>
   
